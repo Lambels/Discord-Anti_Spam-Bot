@@ -4,7 +4,7 @@ This bot is mad by Lambels Development, and we are still active on it, therefor 
 
 # How can you join Lambels Development?
 
-Join this servert and apply! https://discord.gg/AcXZf6H
+Join this server and apply! https://discord.gg/AcXZf6H
 
 
 # FAQ
