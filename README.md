@@ -9,11 +9,11 @@ Join this server and apply! https://discord.gg/AcXZf6H
 
 # FAQ
 
-Q How can i suggest features?
-A By joining my discord server! https://discord.gg/qdBQaAU
+Q| How can i suggest features?
+A| By joining my discord server! https://discord.gg/qdBQaAU
 
-Q Are you constantly updating the bot?
-A Yes!
+Q| Are you constantly updating the bot?
+A| Yes!
 
-Q Are you working alone on this bot?
-A Currently yey
+Q| Are you working alone on this bot?
+A| Currently yey
