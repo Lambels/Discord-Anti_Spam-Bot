@@ -11,9 +11,7 @@ async def on_message(message):
         x.messages.append(str(message.content.lower()))
         print(x.messages)
         if len(x.messages) == 6:
-            print(21)
             if x.check(message) == True:
-                print('24')
                 await message.channel.purge(limit=1)
                 x.messages.pop(0)
             else:
@@ -23,8 +21,6 @@ async def on_message(message):
         inst = _user_class.User(message.author)
         _user_class.User.USER_LIST.append(inst)
         inst.messages.append(str(message.content.lower()))
-        print(inst.messages)
-        print(_user_class.User.USER_LIST)
 
 
 
